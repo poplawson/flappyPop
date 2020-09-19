@@ -1,5 +1,9 @@
 # flappy-pop
 
+Simple flappy bird game clone made in couple hours to practice 'game dev' in web technologies :)
+
+#### by Poplawson
+
 ## Project setup
 ```
 npm install
@@ -9,21 +13,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
